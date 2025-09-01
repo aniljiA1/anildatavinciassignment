@@ -1,16 +1,34 @@
-<<<<<<< HEAD
-# anildatavinciassignment
-=======
-# React + Vite
+# DataVinci Assignment - Vite + React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend project built using **Vite + React + TailwindCSS**.  
+The project is part of the **DataVinci Assignment**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **React 18**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript / TypeScript (based on project setup)**
+- **GitHub for version control**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a284120 (first-commit)
+## 📂 Project Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/aniljiA1/anildatavinciassignment.git
+cd vite-project
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run development server
+npm run dev
+
+
+The app will start at http://localhost:5173/
+
+live server --
+deploy link: https://anildatavinciassignment.vercel.app
